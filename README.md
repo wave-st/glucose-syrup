@@ -6,3 +6,5 @@ It is designed to be parallel, since 2014.
 This page summarizes the techniques embedded in all the versions of glucose.
 The name of the Solver name is a contraction of the concept of "glue clauses", a particular kind of clauses that glucose detects and preserves during search.
 Glucose is heavily based on Minisat, so please do cite Minisat also if you want to cite Glucose.
+
+-- [Gilles Audemard](http://www.cril.fr/~audemard/) and [Laurent Simon](http://www.labri.fr/perso/lsimon/)
