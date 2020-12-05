@@ -8,3 +8,5 @@ The name of the Solver name is a contraction of the concept of "glue clauses", a
 Glucose is heavily based on Minisat, so please do cite Minisat also if you want to cite Glucose.
 
 -- [Gilles Audemard](http://www.cril.fr/~audemard/) and [Laurent Simon](http://www.labri.fr/perso/lsimon/)
+
+This version of glucose is a quick fix for compiling on mac os, found on [stackoverflow](https://stackoverflow.com/questions/32467243/how-do-i-compile-glucose-sat-solver-on-mac)
